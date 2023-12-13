@@ -1,0 +1,50 @@
+.font-silkscreen{
+    font-family: 'Silkscreen', sans-serif;
+}
+
+.font-preahviear{
+    font-family: 'Preahvihear', sans-serif;
+}
+.profile{
+    height: 300px;
+    width: 300px;
+    border: 2px dashed #198754;
+    cursor: pointer;
+    position: absolute;
+    top: 24%;
+    left: 10%;
+    z-index: 999;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 50%;
+}
+.btn-follow{
+    color: white;
+    cursor: pointer;
+    width: 120px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    z-index: 999;
+    background-color: #ff00b3;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.btn-follow:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #ff00b3;
+    box-shadow: 10px 10px 20px gray;
+}
+
+.height150{
+    height: 150px;
+}
+
+.post-img-profile{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
