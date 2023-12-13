@@ -48,3 +48,9 @@
     width: 50px;
     border-radius: 50%;
 }
+
+.post-img{
+    /* height: 300px; */
+    width: 100%;
+    border-radius: 20px;
+}
